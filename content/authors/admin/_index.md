@@ -61,12 +61,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cb.zheng@connect.ust.hk"
+email: "cb.zheng@connect.ust.hkgit"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chengbo Zheng(郑成博) is a PhD student at HKUST. He is under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). His research interests include Human-AI collaboration, information visualization and storytelling.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
