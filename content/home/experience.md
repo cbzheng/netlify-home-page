@@ -38,7 +38,6 @@ experience:
     location: Hangzhou
     date_start: '2020-01-01'
     date_end: '2020-09-01'
-    date_end: ''
     description: Working on urban visualization research project
 
   - title: Visiting Student
@@ -48,7 +47,6 @@ experience:
     location: Califoria
     date_start: '2019-07-01'
     date_end: '2019-12-01'
-    date_end: ''
     description: Research around immersive visualization with Prof. Kwan-liu Ma
         
   - title: Undergraduate Student
